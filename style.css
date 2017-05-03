@@ -1,0 +1,207 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-style: roboto;
+}
+
+body {
+    min-height: 100%;
+    position: relative;
+    margin: 0px;
+    padding: 0px
+}
+
+.sidebar {
+    background-color: #111111;
+    height: 104%;
+    width: 30%;
+    position: absolute;
+    display: block;
+}
+
+.sidebar:hover {
+    text-decoration: none;
+}
+
+.sidebar_header {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    font-style: roboto;
+}
+
+.sidebar_header:hover {
+    text-decoration: none;
+}
+
+.sidebar_links {
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-left: 3%;
+    font-style: roboto;
+}
+
+.sidebar_links:hover {
+    text-decoration: none;
+}
+
+#tillbaka {
+    margin: 10px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.title_name {
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+}
+
+.info {
+    margin-bottom: 50px;
+    margin-left: 30%;
+}
+
+.info_title {
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+}
+
+.info_text {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+	border-bottom: 1px solid black;
+}
+
+.howto {
+    margin-left: 30%;
+}
+
+.contact {
+    margin-left: 28.6%;
+}
+
+.howto_title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.howto_under {
+    text-align: center;
+    font-size: 25px;
+}
+
+.contact_phone {
+	margin-left: 7.3%;
+    font-size: 25px;
+}
+
+.howto_text {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+	border-bottom: 1px solid black;
+}
+
+.contact_text {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.howto_text_bottom {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.form_button {
+    text-align: center;
+}
+
+.footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    background-color: #444444;
+}
+
+.return_to_top {
+    text-align: right;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer_text {
+    color: #FFF;
+    font-size: 20px;
+}
+
+.footer_contact {
+    text-align: center;
+}
+
+.footer_socialmedia {
+    text-align: center;
+}
+
+.formular {
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 34%;
+    max-width: 40%;
+}
+
+.form_title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.form_text {
+    text-align: center;
+    font-size: 25px;
+}
+
+#formLogin {
+    max-width: 30%;
+    margin: auto auto;
+    padding-top: 13%;
+}
+
+#formIsh {
+    margin: auto;
+}
+
+#bodyIsh {}
+
+#buttonLogin {
+    margin: 10px;
+}
+
+.description {
+    width: 20px;
+}
+
+.tooltip {
+    display: none;
+    position: absolute;
+    border: 1px solid #333;
+    background-color: #161616;
+    border-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    font-size: 12px Arial;
+}
+
+#info {
+    max-width: 2%;
+    max-height: 2%;
+}
